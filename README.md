@@ -16,5 +16,3 @@ Method: Hierarchical linear regression (2-block)
 *Do behavioural risk differences translate into clinical cervical cancer outcomes?*
 Dataset: Cervical Cancer Risk Factors, UCI
 Method: Binary logistic regression with interaction term, 80/20 train–test split, sensitivity analysis
-
-Read them in order — each stage's findings motivate the modelling choice in the next.
